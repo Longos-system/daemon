@@ -1,0 +1,5 @@
+[D-BUS Service]
+Name=com.long.Daemon
+Interface=com.long.Daemon
+Exec=/usr/bin/long-daemon
+User=root
